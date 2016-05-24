@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\EnemySpawn.cs">
+    <Files>
+      <File FileName="Assets\Script\MiniCamera.cs" Line="7" Column="3" />
+      <File FileName="Assets\Script\Player.cs" Line="11" Column="36" />
+      <File FileName="Assets\Script\EnemySpawn.cs" Line="9" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
