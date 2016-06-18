@@ -8,4 +8,4 @@ Unity3d-5.2,脚本：C#
 [Windows版下载](https://yunpan.cn/cSBeVEA3xgBjT)  访问密码 ac60  
 
 ##预览图  
-![](http://ww4.sinaimg.cn/mw1024/9c3ad739jw1f46onreuigj20i90pejwy.jpg)
+![](http://ww4.sinaimg.cn/mw690/9c3ad739jw1f46onreuigj20i90pejwy.jpg)
